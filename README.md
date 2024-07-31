@@ -1,4 +1,4 @@
-# Projeto Cordel 👒
+# Cordel 👒
 - Curso em Vídeo - Profº Gustavo Guanabara
 
 
